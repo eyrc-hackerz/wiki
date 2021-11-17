@@ -1,0 +1,2 @@
+# wiki
+eyrc wiki
