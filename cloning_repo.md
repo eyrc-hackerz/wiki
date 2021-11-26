@@ -48,10 +48,10 @@ Open the `id_rsa` file in a text editor and copy the contents.
 ![Copy the contents](./assets/imgs/copy_public_key.png)
 
 Go to this link to modify or add ssh keys to your GitHub account. [Add-ssh-keys](https://github.com/settings/keys)  
-![Press add key](https://imgur.com/a/olQPAsZ)
+![Press add key](./assets/imgs/add_public_key.png)
 
 Name it something useful and Paste the key into the bottom text field  
-![Paste the key](./assets/imgs/add_public_key.png) 
+![Paste the key](./assets/imgs/paste_public_key.png) 
 
 Now you can clone the repos with  
 
