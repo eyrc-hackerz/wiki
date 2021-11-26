@@ -44,14 +44,14 @@ After running the `ssh-keygen` command your new `ssh key pair` is stored in `~/.
 
 Open the `id_rsa` file in a text editor and copy the contents.
 
-![Copy the contents](https://imgur.com/a/thfXFBQ)  
-![Copy the contents](https://imgur.com/a/AlOzRvu)  
+![Copy the contents](./assets/imgs/public_key.png)
+![Copy the contents](./assets/imgs/copy_public_key.png)
 
-Go to this link to modify or add ssh keys to your GitHub account. [Add-ssh-keys](https://github.com/settings/keys)  
+Go to this link to modify or add ssh keys to your GitHub account. [Add-ssh-keys](./assets/imgs/add_public_key.png)  
 ![Press add key](https://imgur.com/a/olQPAsZ)
 
 Name it something useful and Paste the key into the bottom text field  
-![Paste the key](https://imgur.com/a/x2j5omm) 
+![Paste the key](./assets/imgs/add_public_key.png) 
 
 Now you can clone the repos with  
 
